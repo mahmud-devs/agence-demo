@@ -1,0 +1,57 @@
+
+/* -----------agence start---------- */
+#agence{
+    padding: 150px 0;
+}
+.agence__detail{
+    width: 100%;
+}
+.agence__detail .cmn__heading{
+    width: 500px;
+}
+.agence__detail .cmn__pera{
+    width: 500px;
+    margin-bottom: 85px;
+}
+.agence__item_main {
+	display: flex;
+	justify-content: center;
+	column-gap: 65px;
+	flex-wrap: wrap;
+}
+.agence__item{
+    width: 340px;
+    margin-bottom: 40px;
+}
+.agence__item h5{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #151515;
+    font-family: 'Inter', sans-serif;
+    margin: 20px 0 10px 0;
+}
+.agence__item p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #737373;
+    font-family: 'Inter', sans-serif;
+}
+
+.agence__img{
+    width: 100%;
+    position: relative;
+}
+.agence__img img{
+    position: absolute;
+    top: 90px;
+    left: 0;
+}
+
+
+
+
+/* -----------agence end---------- */

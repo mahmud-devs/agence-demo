@@ -1,0 +1,42 @@
+
+/* -----------banner start---------- */
+
+#banner{
+    padding: 186px 0 150px 0;
+}
+.banner__item{
+    width: 100%;
+}
+.banner__item h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 75px;
+    line-height: 120%;
+    color: #151515;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 20px;
+}
+.banner__item p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #737373;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+
+.banner__img{
+    width: 100%;
+    position: relative;
+
+}
+.banner__img_small{
+    position: absolute;
+    bottom: 232px;
+    left: -56px;
+}
+
+
+/* -----------banner end---------- */

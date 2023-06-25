@@ -1,0 +1,33 @@
+/* -----------nav start---------- */
+.nav_main{
+    padding: 50px 0 0 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.cmn_btn{
+    background: #6A4DF4;
+    padding: 15px 42px;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    color: #fff;
+    display: inline-block;
+    font-family: 'Inter', sans-serif;
+    text-transform: capitalize;
+    transition: all linear 0.2s;
+}
+.cmn_btn:hover{
+    background-color: #F9BD2C;
+    cursor: pointer;
+}
+.btn__main{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* -----------nav end---------- */

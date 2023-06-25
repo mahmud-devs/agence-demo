@@ -1,0 +1,52 @@
+
+/* -----------login start---------- */
+#login{
+    padding: 150px 0;
+    background-color: #F3F3F3;
+}
+
+.login_main{
+    padding: 60px 42px;
+    width: 535px;
+    background: #fff;
+    border-radius: 20px;
+}
+.login_heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    font-family: 'Inter', sans-serif;
+    color: #151515;
+    margin-bottom: 30px;
+}
+.login_input_main p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #151515;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+.login_input{
+    width: 100%;
+    padding: 19px 23px;
+    border: 2px solid #E8E8E8;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #D0D0D0;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 20px;
+}
+.login_main button{
+    width: 100%;
+}
+
+
+
+/* -----------login end---------- */

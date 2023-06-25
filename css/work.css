@@ -1,0 +1,32 @@
+
+/* -----------work starrt---------- */
+#work{
+    padding: 150px 0;
+    background-color: #F3F3F3;
+}
+.work__main_link{
+    display: flex;
+    justify-content: space-between;
+}
+.work_link{
+    text-transform: capitalize;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #a1a1a1;
+    margin-bottom: 50px;
+    font-family: 'Inter', sans-serif;
+    transition: all linear 0.2s;
+}
+.work_link:hover{
+    color: #6A4DF4;
+    cursor: pointer;
+
+}
+.work__card{
+    margin-bottom: 24px;
+}
+
+
+/* -----------work end---------- */
